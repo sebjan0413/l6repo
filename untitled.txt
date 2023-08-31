@@ -1,7 +1,4 @@
 Hej!
 Detta är en testfil för ett GitHub repo.
 Här har det tillkommit en ny rad.
-
-Min nya feature som kaaanske funkar...
-
 Hejdå!
