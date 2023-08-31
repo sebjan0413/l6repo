@@ -1,3 +1,4 @@
 Hej!
-Detta är en testfil för ett GitHub repo
-Hejdå
+Detta är en testfil för ett GitHub repo.
+Här har det tillkommit en ny rad.
+Hejdå!
