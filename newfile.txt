@@ -1,2 +1,5 @@
 Blabla
 ny rad skriven från RPI
+
+Denna raden skrevs från RPI och pushas till GitHub Repot.
+Den borde efter en pull vara synlig i ubuntu.
