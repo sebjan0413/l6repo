@@ -1,4 +1,4 @@
-Blabla
+blabla
 ny rad skriven från RPI
 
 Denna raden skrevs från RPI och pushas till GitHub Repot.
